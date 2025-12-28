@@ -1,4 +1,4 @@
-![logo](https://github.com/blackrexdl/blackrexdl/blob/main/1%202.png?raw=true)
+[![logo](https://github.com/blackrexdl/blackrexdl/blob/main/1%202.png?raw=true)
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
 <img align="right" alt="coding" width-"400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=790b76115jbh0cygzbhfnkjxv8as7gd2rmc040sre3pihbzh&ep=v1_gifs_search&rid=200.webp&ct=g"
@@ -37,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackrexdl&show_icons=true&locale=en" alt="blackrexdl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackrexdl&" alt="blackrexdl" /></p>
+](https://github.com/blackrexdl)
