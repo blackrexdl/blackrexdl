@@ -6,13 +6,13 @@
 
 
 
-- 🔭 I’m currently working on **Hospital Managment**
+- 🔭 Aspiring **iOS Developer** focused on building intuitive user experiences with Swift and **SwiftUI**
 
-- 🌱 I’m currently learning **React,Swift,Flutter,Javascript,Python**
+- 🌱 I’m currently learning **Node,Swift,Flutter,JAVA,AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/blackrexdl](https://github.com/blackrexdl)
 
-- 💬 Ask me about **react, js, python, html and css.**
+- 💬 Ask me about **Reacj, js, PY, WEB-D and Tailwind css.**
 
 - 📫 How to reach me **shuvam2065@gmail.com**
 
