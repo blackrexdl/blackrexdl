@@ -53,10 +53,10 @@ _FUll Stack (Developer / Programmer)_
 </ul>
   
 <h3 align="left">Latest Project's </h3>
-- 💻 Here is the [Hospital Management System](https://github.com/blackrexdl/Healthcare)
-- 🤯 The other one is [Personal Portfolio](https://github.com/blackrexdl/Personal-Portfolio)
-- 💁‍♂️ I am working on [DineFlow Next.js Project](https://github.com/blackrexdl/next-restaurant)
-- 🔥 Here is my [DSA Series with LeetCode](https://github.com/blackrexdl/DSA)
+- 💻 **[Hospital Management System](https://github.com/blackrexdl/Healthcare)**
+- 🤯 **[Personal Portfolio](https://github.com/blackrexdl/Personal-Portfolio)**
+- 💁‍♂️ **[DineFlow Next.js Project](https://github.com/blackrexdl/next-restaurant)**
+- 🔥 **[DSA Series with LeetCode](https://github.com/blackrexdl/DSA)**
 <br />
 <br />
 <br />
