@@ -1,4 +1,3 @@
-
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -35,3 +34,30 @@ _FUll Stack (Developer / Programmer)_
 </p>
 
 ---
+
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in IOS Development Learning and Swift.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills C++ with DSA and Leetcode.</li>
+</ul>
+  
+<h3 align="left">Latest Project's </h3>
+- 💻 Here is the [Hospital Management System](https://github.com/blackrexdl/Healthcare)
+- 🤯 The other one is [Personal Portfolio](https://github.com/blackrexdl/Personal-Portfolio)
+- 💁‍♂️ I am working on [DineFlow Next.js Project](https://github.com/blackrexdl/next-restaurant)
+- 🔥 Here is my [DSA Series with LeetCode](https://github.com/blackrexdl/DSA)
+<br />
+<br />
+<br />
+<br />
