@@ -120,12 +120,12 @@ _FUll Stack (Developer / Programmer)_
 <br />
 
     
-
-<div align="center">
+<!-- 5th stat not now in used in future maybe update  -->
+<!-- <div align="center">
     <a href="https://git.io/awesome-stats-card">
     <img width="50%" src="https://awesome-github-stats.azurewebsites.net/user-stats/blackrexdl?cardType=github&theme=dracula&preferLogin=false" alt="Awesome GitHub Stats"/>
   </a>
-</div>
+</div> -->
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
