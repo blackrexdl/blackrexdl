@@ -25,7 +25,7 @@ _FUll Stack (Developer / Programmer)_
 
 <!-- Manual Profile Views Counter -->
 <div align="center">
-  <img height="40" src="https://img.shields.io/badge/Profile%20Views-10K%2B-ff2400?style=for-the-badge&logo=github&logoColor=white"/>
+  <img height="40" src="https://img.shields.io/badge/Profile%20Views-2125%2B-ff2400?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
 <br>
