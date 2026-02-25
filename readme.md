@@ -165,5 +165,10 @@ _FUll Stack (Developer / Programmer)_
 
 <!--Footer Wave-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff3c3c,100:8b0000&height=110&section=footer&animation=fadeIn"/>
+</p>
+
+<!-- Fire Spark Particles -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&pause=1000&color=FF000000&vCenter=true&repeat=true&width=1&height=1&lines=." />
 </p>
