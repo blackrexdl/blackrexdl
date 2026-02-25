@@ -119,8 +119,13 @@ _FUll Stack (Developer / Programmer)_
 </table>
 <br />
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/blackrexdl?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
+    
 
+<div align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img width="85%" src="https://awesome-github-stats.azurewebsites.net/user-stats/blackrexdl?cardType=github&theme=dracula&preferLogin=false" alt="Awesome GitHub Stats"/>
+  </a>
+</div>
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
