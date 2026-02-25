@@ -126,9 +126,9 @@ _FUll Stack (Developer / Programmer)_
     <img width="50%" src="https://awesome-github-stats.azurewebsites.net/user-stats/blackrexdl?cardType=github&theme=dracula&preferLogin=false" alt="Awesome GitHub Stats"/>
   </a>
 </div> -->
-<div align="center">
-  <img width="85%" src="https://stats.hyo.dev/api/github-stats-advanced?login=blackrexdl&theme=github_dark" alt="GitHub Advanced Stats"/>
-</div>
+
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=hyochan)
+
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
