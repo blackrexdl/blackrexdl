@@ -23,9 +23,9 @@ _FUll Stack (Developer / Programmer)_
 </tr>
 </table>
 
-<!-- Profile Views Counter (Enhanced) -->
+<!-- Manual Profile Views Counter -->
 <div align="center">
-  <img height="40" src="https://komarev.com/ghpvc/?username=blackrexdl&label=PROFILE+VIEWS&color=ff2400&style=for-the-badge" alt="profile views"/>
+  <img height="40" src="https://img.shields.io/badge/Profile%20Views-10K%2B-ff2400?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
 <br>
