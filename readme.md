@@ -1,43 +1,38 @@
-<!--Night Owl image-->
-<div>
-  <div align="center">
-    <img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" width="100%"
-      style="filter: drop-shadow(0 0 14px #c56a90); animation: float 3s ease-in-out infinite;">
-  </div>
-
-  <!-- Floating Animation (GitHub-safe) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&pause=1000&color=00000000&vCenter=true&repeat=true&width=1&height=1&lines=." style="display:none;">
-</div>
-
-
 <!--Banner-->
 <div align="center">
   <img src="https://ishan-rest.vercel.app/svg/banner/creative/blackrexdl" alt="Creative Banner"/>
 </div>
 
-<!--Header Name-->
+<!-- Hero Section with Owl Layout -->
+<table>
+<tr>
+<td width="60%">
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Shubu!
 
 _FUll Stack (Developer / Programmer)_
 <br />
 
-<!--Start Intro-->
 <p align="left">I am a Full Stack Developer and IOS Developer Enthusiast with a huge love for MLCore, Swift-UIkit, React.js, Node.js, Django, Flask, REST API and C++. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🔭 Currently Building:</b> FocusTrail — A Productivity-Focused Project<br>
-- 🏙<b>Learning & Growing In:</b> <b>Core ML (Swift)</b>, <b>UIKit</b>, and <b>DSA with Core C++</b><br>
-- 👯 <b>Open to Collaborate On:</b> <b> [Hospital-Management-System](https://github.com/blackrexdl/Healthcare)</b><br>
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Linkedin](https://www.linkedin.com/in/shubux78/) for more details about me.
-<!--End Intro-->
+</td>
+
+<td width="40%">
+<img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" width="100%" style="filter: drop-shadow(0 0 12px #c56a90);">
+</td>
+</tr>
+</table>
 
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=blackrexdl&label=Profile%20Views&color=770677&style=for-the-badge&logo=star" alt="blackrexdl" />
 </p>
+
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:c56a90&height=2"/>
+</div>
+<br>
 
 ---
 
@@ -167,3 +162,8 @@ _FUll Stack (Developer / Programmer)_
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </div>
+
+<!--Footer Wave-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
