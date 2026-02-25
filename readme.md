@@ -99,6 +99,17 @@ _FUll Stack (Developer / Programmer)_
     </td>
   </tr>
   <tr>
+    <td colspan="2">
+      <p align="center">
+        <a href="https://git.io/awesome-stats-card">
+          <img width="80%" 
+               src="https://awesome-github-stats.azurewebsites.net/user-stats/blackrexdl?cardType=github&preferLogin=false&background=0d1117&border=ff2400&title=ff2400&icon=ff2400&text=ffffff&ring=ff2400&fire=ff2400" 
+               alt="Awesome GitHub Stats"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
@@ -120,12 +131,6 @@ _FUll Stack (Developer / Programmer)_
 <br />
 
     
-
-<div align="center">
-  <a href="https://git.io/awesome-stats-card">
-    <img width="50%" src="https://awesome-github-stats.azurewebsites.net/user-stats/blackrexdl?cardType=github&theme=dracula&preferLogin=false" alt="Awesome GitHub Stats"/>
-  </a>
-</div>
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
