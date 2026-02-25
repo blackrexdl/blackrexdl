@@ -119,6 +119,8 @@ _FUll Stack (Developer / Programmer)_
 </table>
 <br />
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/blackrexdl?cardType=github&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
+
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
