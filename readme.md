@@ -73,12 +73,4 @@ _FUll Stack (Developer / Programmer)_
     </picture>
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/blackrexdl/achievements?format=svg&limit=6"
-      width="400"
-    />
-  </a>
-</p>
 <br />
