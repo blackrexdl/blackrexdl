@@ -102,7 +102,7 @@ _FUll Stack (Developer / Programmer)_
     <td colspan="2">
       <p align="center">
         <a href="https://git.io/awesome-stats-card">
-          <img width="80%" 
+          <img width="50%" 
                src="https://awesome-github-stats.azurewebsites.net/user-stats/blackrexdl?cardType=github&preferLogin=false&background=0d1117&border=ff2400&title=ff2400&icon=ff2400&text=ffffff&ring=ff2400&fire=ff2400" 
                alt="Awesome GitHub Stats"/>
         </a>
