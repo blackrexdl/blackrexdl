@@ -23,10 +23,10 @@ _FUll Stack (Developer / Programmer)_
 </tr>
 </table>
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=blackrexdl&label=Profile%20Views&color=770677&style=for-the-badge&logo=star" alt="blackrexdl" />
-</p>
+<!-- Profile Views Counter (Enhanced) -->
+<div align="center">
+  <img height="40" src="https://komarev.com/ghpvc/?username=blackrexdl&label=PROFILE+VIEWS&color=ff2400&style=for-the-badge" alt="profile views"/>
+</div>
 
 <br>
 <div align="center">
