@@ -3,20 +3,6 @@
   <img src="https://ishan-rest.vercel.app/svg/banner/creative/blackrexdl" alt="Creative Banner"/>
 </div>
 
-<!-- Animated Owl with Particles -->
-<div align="center">
-
-  <!-- Owl -->
-  <img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"
-       width="260"
-       style="filter: drop-shadow(0 0 18px #c56a90);">
-
-  <br/>
-
-  <!-- Particle Aura (animated SVG background) -->
-  <img src="https://svg-banners.vercel.app/api?type=glow&text=&width=320&height=120&theme=dark"
-       style="margin-top:-110px; opacity:0.7;" />
-
 <!-- Hero Section with Owl Layout -->
 <table>
 <tr>
