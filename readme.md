@@ -165,14 +165,15 @@ _FUll Stack (Developer / Programmer)_
 
 <!--Footer Wave-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff3c3c,100:8b0000&height=110&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:2b0000,50:ff2400,70:2b0000,100:0d0d0d&height=150&section=footer&animation=twinkling&reversal=true"/>
 </p>
 
-<!-- Real Burning Flame Footer -->
+<!-- Lava Crack Overlay -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:ff4500,50:ff0000,75:b22222,100:8b0000&height=140&section=footer&animation=twinkling"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FF2400&center=true&vCenter=true&repeat=true&width=700&lines=█+█+█+█+█+█+█+█+█+█;▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒;🔥+Molten+Core+Energy+🔥" />
 </p>
 
+<!-- Fire Spark Particles -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF4500&center=true&vCenter=true&repeat=true&width=600&lines=🔥+Keep+Building.;🔥+Stay+Consistent.;🔥+Code.+Grind.+Repeat."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&pause=1000&color=FF000000&vCenter=true&repeat=true&width=1&height=1&lines=." />
 </p>
