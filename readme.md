@@ -85,7 +85,7 @@ _FUll Stack (Developer / Programmer)_
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/blackrexdl">
-          <img align="center" width="100%" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=blackrexdl&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=blackrexdl&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -93,7 +93,7 @@ _FUll Stack (Developer / Programmer)_
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/blackrexdl">
-          <img align="center" width="100%" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=blackrexdl&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=blackrexdl&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -103,7 +103,7 @@ _FUll Stack (Developer / Programmer)_
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/blackrexdl/Personal-Portfolio">
-          <img align="center" width="100%" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
@@ -111,7 +111,7 @@ _FUll Stack (Developer / Programmer)_
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/blackrexdl">
-          <img align="center" width="100%" src="https://github-contributor-stats.vercel.app/api?username=blackrexdl&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=blackrexdl&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -122,7 +122,7 @@ _FUll Stack (Developer / Programmer)_
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=blackrexdl&bg_color=0d1117&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=true" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackrexdl&bg_color=0d1117&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=true" border-radius="15">
 </div>
 
 ---
