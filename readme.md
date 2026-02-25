@@ -173,7 +173,3 @@ _FUll Stack (Developer / Programmer)_
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FF2400&center=true&vCenter=true&repeat=true&width=700&lines=█+█+█+█+█+█+█+█+█+█;▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒;🔥+Molten+Core+Energy+🔥" />
 </p>
 
-<!-- Fire Spark Particles -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&pause=1000&color=FF000000&vCenter=true&repeat=true&width=1&height=1&lines=." />
-</p>
