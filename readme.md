@@ -165,11 +165,5 @@ _FUll Stack (Developer / Programmer)_
 
 <!--Footer Wave-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:2b0000,50:ff2400,70:2b0000,100:0d0d0d&height=150&section=footer&animation=twinkling&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-
-<!-- Lava Crack Overlay -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FF2400&center=true&vCenter=true&repeat=true&width=700&lines=█+█+█+█+█+█+█+█+█+█;▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒;🔥+Molten+Core+Energy+🔥" />
-</p>
-
