@@ -168,7 +168,11 @@ _FUll Stack (Developer / Programmer)_
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff3c3c,100:8b0000&height=110&section=footer&animation=fadeIn"/>
 </p>
 
-<!-- Fire Spark Particles -->
+<!-- Real Burning Flame Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&pause=1000&color=FF000000&vCenter=true&repeat=true&width=1&height=1&lines=." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:ff4500,50:ff0000,75:b22222,100:8b0000&height=140&section=footer&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF4500&center=true&vCenter=true&repeat=true&width=600&lines=🔥+Keep+Building.;🔥+Stay+Consistent.;🔥+Code.+Grind.+Repeat."/>
 </p>
