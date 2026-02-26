@@ -64,10 +64,13 @@ _FUll Stack (Developer / Programmer)_
 <br />
 <br />
 <!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=blackrexdl&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+
+## Star History
+
+[![Star History](https://api.star-history.com/svg?repos=next-restaurant&theme=dark&type=Date)](https://github.com/next-restaurant/)
+
+</div>
 <br />
 
 <!--Github stats Table--> 
