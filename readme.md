@@ -68,7 +68,7 @@ _FUll Stack (Developer / Programmer)_
 
 ## Star History
 
-[![Star History](https://api.star-history.com/svg?repos=next-restaurant&theme=dark&type=Date)](https://github.com/next-restaurant/)
+[![Star History](https://api.star-history.com/svg?repos=next-restaurant&theme=dark&type=Date)](https://github.com/blackrexdl/next-restaurant)
 
 </div>
 <br />
