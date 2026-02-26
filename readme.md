@@ -66,9 +66,7 @@ _FUll Stack (Developer / Programmer)_
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/blackrexdl">
-    <img src="https://github-profile-trophy.vercel.app/?username=blackrexdl&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-  </a>
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=blackrexdl&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
 </p>
 <br />
 
