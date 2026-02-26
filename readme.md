@@ -88,9 +88,8 @@ _FUll Stack (Developer / Programmer)_
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/blackrexdl">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=blackrexdl&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
+              <a href="https://github.com/blackrexdl">
+          <img align="center" src="https://streak-stats.demolab.com?user=blackrexdl&theme=nightowl&background=0D1117&ring=c56a90&fire=ffeb95&currStreakNum=ffffff&sideNums=ffffff&dates=c56a90" alt="Streak Stats" />
       </p>
     </td>
   </tr>
