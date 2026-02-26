@@ -81,7 +81,7 @@ _FUll Stack (Developer / Programmer)_
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/blackrexdl">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=blackrexdl&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=blackrexdl&count_private=true&show_icons=true&theme=nightowl&bg_color=000000&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -89,7 +89,7 @@ _FUll Stack (Developer / Programmer)_
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
               <a href="https://github.com/blackrexdl">
-          <img align="center" src="https://streak-stats.demolab.com?user=blackrexdl&theme=nightowl&bg_color=0&ring=c56a90&fire=ffeb95&currStreakNum=ffffff&sideNums=ffffff&dates=c56a90" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=blackrexdl&theme=nightowl&background=000000&ring=c56a90&fire=ffeb95&currStreakNum=ffffff&sideNums=ffffff&dates=c56a90" alt="Streak Stats" />
       </p>
     </td>
   </tr>
@@ -98,7 +98,7 @@ _FUll Stack (Developer / Programmer)_
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/blackrexdl/Personal-Portfolio">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=nightowl&show_owner=true&bg_color=000000&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
@@ -106,7 +106,7 @@ _FUll Stack (Developer / Programmer)_
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/blackrexdl">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=blackrexdl&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=blackrexdl&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=000000&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
