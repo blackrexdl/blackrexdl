@@ -63,14 +63,14 @@ _FUll Stack (Developer / Programmer)_
 <br />
 <br />
 <br />
-<!--Star History Section-->   
 <div align="center">
 
-## Star History
 
-[![Star History](https://api.star-history.com/svg?repos=next-restaurant&theme=dark&type=Date)](https://github.com/blackrexdl/next-restaurant)
+## ⭐ Star History
 
-</div>
+<p align="center">
+  <img src="https://api.star-history.com/svg?repos=blackrexdl/next-restaurant&type=Date" alt="Star History Graph" />
+</p>
 <br />
 
 <!--Github stats Table--> 
