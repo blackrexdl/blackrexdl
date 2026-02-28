@@ -84,15 +84,6 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
 <br />
 <div align="center">
 
-## Daily Traffic Views for
-https://github.com/blackrexdl/next-restaurant
-
-<!--
-Placeholder for the dynamically generated SVG chart.
-The workflow will generate and update this file at `.github/daily-traffic-chart.svg`.
--->
-![Daily Views Chart](.github/daily-traffic-chart.svg)
-<br />
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
