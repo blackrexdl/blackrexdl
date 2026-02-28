@@ -1,4 +1,4 @@
-<file name=0 path=/blackrexdl/blackrexdl/readme.md><!--Banner-->
+<!--Banner-->
 <div align="center">
   <img src="https://ishan-rest.vercel.app/svg/banner/creative/blackrexdl" alt="Creative Banner"/>
 </div>
@@ -68,7 +68,7 @@ _FUll Stack (Developer / Programmer)_
 ## Daily Traffic Views for
 https://github.com/blackrexdl/next-restaurant
 
-![Daily Views Chart](https://github.com/blackrexdl/next-restaurant/traffic-views-chart-placeholder)
+![Daily Views Chart](https://quickchart.io/chart?c={type:'line',data:{labels:['Mon','Tue','Wed','Thu','Fri','Sat','Sun'],datasets:[{label:'Views',data:[12,19,3,5,2,3,7]}]},options:{scales:{yAxes:[{ticks:{beginAtZero:true}}]}}})
 <br />
 
 <!--Github stats Table--> 
@@ -171,4 +171,3 @@ https://github.com/blackrexdl/next-restaurant
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-</file>
