@@ -68,7 +68,17 @@ _FUll Stack (Developer / Programmer)_
 ## Daily Traffic Views for
 https://github.com/blackrexdl/next-restaurant
 
-![Daily Views Chart](https://quickchart.io/chart?c={type:'line',data:{labels:['Mon','Tue','Wed','Thu','Fri','Sat','Sun'],datasets:[{label:'Views',data:[12,19,3,5,2,3,7]}]},options:{scales:{yAxes:[{ticks:{beginAtZero:true}}]}}})
+<!--
+  The chart below will be dynamically updated by the workflow.
+  It displays daily views for each date of the week (Mon-Sun).
+-->
+<!--STARTS_DAILY_TRAFFIC_VIEWS_CHART-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackrexdl/next-restaurant/main/.github/daily-traffic-chart-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackrexdl/next-restaurant/main/.github/daily-traffic-chart-light.svg">
+  <img alt="Daily Views Chart (Mon-Sun)" src="https://raw.githubusercontent.com/blackrexdl/next-restaurant/main/.github/daily-traffic-chart-light.svg">
+</picture>
+<!--ENDS_DAILY_TRAFFIC_VIEWS_CHART-->
 <br />
 
 <!--Github stats Table--> 
