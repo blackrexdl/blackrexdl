@@ -36,6 +36,25 @@ _FUll Stack (Developer / Programmer)_
 
 ---
 
+<!--
+📝 Dynamic SVG Chart Generation & Commit Guidance
+
+This repository uses a GitHub Actions workflow to automatically generate and update SVG charts (e.g., daily traffic, stats, etc.) and commit them back to the repository.
+
+**How to generate and commit SVGs dynamically:**
+1. In your workflow, generate the SVG chart (for example, using a Python script or an API).
+2. Save the generated SVG file in a location inside the repo. We recommend storing generated SVGs in the `.github/` directory to keep the root clean.
+3. Use the workflow to commit and push the updated SVG file(s) back to the `main` branch.
+4. In your README, reference the SVG using a relative path, e.g.:
+   ```markdown
+   ![Daily Traffic Chart](.github/daily-traffic-chart.svg)
+   ```
+   The workflow will replace this file automatically.
+
+**Note:** Make sure your workflow has permission to push to the `main` branch and only commits the generated SVGs (not other files).
+
+-->
+
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2> 
@@ -68,7 +87,11 @@ _FUll Stack (Developer / Programmer)_
 ## Daily Traffic Views for
 https://github.com/blackrexdl/next-restaurant
 
-![Daily Views Chart](https://quickchart.io/chart?c={type:'line',data:{labels:['Mon','Tue','Wed','Thu','Fri','Sat','Sun'],datasets:[{label:'Views',data:[12,19,3,5,2,3,7]}]},options:{scales:{yAxes:[{ticks:{beginAtZero:true}}]}}})
+<!--
+Placeholder for the dynamically generated SVG chart.
+The workflow will generate and update this file at `.github/daily-traffic-chart.svg`.
+-->
+![Daily Views Chart](.github/daily-traffic-chart.svg)
 <br />
 
 <!--Github stats Table--> 
