@@ -190,6 +190,6 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
 
 ## Star History
 
-[![Star History](https://api.star-history.com/svg?repos=blackrexdl/next-restaurant&type=Date)](https://star-history.com/#blackrexdl/next-restaurant&Date)
+[![Star History](https://api.star-history.com/svg?repos=blackrexdl/next-restaurant&type=Date&background=000000&line=FF0000)](https://star-history.com/#blackrexdl/next-restaurant&Date)
 
 </div>
