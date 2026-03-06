@@ -186,10 +186,12 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-<div align="center">
-
 ## Star History
 
-[![Star History](https://api.star-history.com/svg?repos=blackrexdl/next-restaurant&type=Date&background=000000&line=FF0000)](https://star-history.com/#blackrexdl/next-restaurant&Date)
-
-</div>
+<a href="https://www.star-history.com/?repos=blackrexdl%2Fnext-restaurant&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=blackrexdl/next-restaurant&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=blackrexdl/next-restaurant&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=blackrexdl/next-restaurant&type=date&legend=top-left" />
+ </picture>
+</a>
