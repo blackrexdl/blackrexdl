@@ -1,3 +1,4 @@
+
 <!--Banner-->
 <div align="center">
   <img src="https://ishan-rest.vercel.app/svg/banner/creative/blackrexdl" alt="Creative Banner"/>
@@ -185,3 +186,10 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+<div align="center">
+
+## Star History
+
+[![Star History](https://api.star-history.com/svg?repos=blackrexdl/next-restaurant&type=Date)](https://star-history.com/#blackrexdl/next-restaurant&Date)
+
+</div>
