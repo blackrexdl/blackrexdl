@@ -149,6 +149,10 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
 
 <!--START_SECTION:waka-->
 
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
