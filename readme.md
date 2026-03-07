@@ -145,6 +145,11 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
 </div>
 
 ---
+## 📊 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
