@@ -1,6 +1,6 @@
 
 
-### My GitHub Contribution Graph CLI based!!
+### My GitHub Contribution Graph !!
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
@@ -153,6 +153,15 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
     <img src="https://readme-daily-quotes.vercel.app/api?author=Adi%20Da%20Samraj&quote=Relax.%20Nothing%20is%20under%20control.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 
+
+
+
+<!--Banner-->
+<div align="center">
+  <img src="https://ishan-rest.vercel.app/svg/banner/creative/blackrexdl" alt="Creative Banner"/>
+</div>
+
+
 <!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 
@@ -181,15 +190,7 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </div>
-
-
-
-<!--Banner-->
-<div align="center">
-  <img src="https://ishan-rest.vercel.app/svg/banner/creative/blackrexdl" alt="Creative Banner"/>
-</div>
-
+</p>
 <!--Footer Wave-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
