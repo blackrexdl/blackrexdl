@@ -1,9 +1,4 @@
 
-<!--Banner-->
-<div align="center">
-  <img src="https://ishan-rest.vercel.app/svg/banner/creative/blackrexdl" alt="Creative Banner"/>
-</div>
-
 
 ### My GitHub Contribution Graph
 
@@ -191,3 +186,8 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
+
+<!--Banner-->
+<div align="center">
+  <img src="https://ishan-rest.vercel.app/svg/banner/creative/blackrexdl" alt="Creative Banner"/>
+</div>
