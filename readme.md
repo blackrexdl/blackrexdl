@@ -117,10 +117,10 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+     <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/blackrexdl">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=blackrexdl&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=blackrexdl&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
