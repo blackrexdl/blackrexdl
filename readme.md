@@ -136,7 +136,7 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
   </a>
 </div> -->
 
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=blackrexdl)
+<!-- ![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=blackrexdl) -->
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
