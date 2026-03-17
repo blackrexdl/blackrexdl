@@ -167,6 +167,10 @@ Tcsh              12 mins               ▒░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+## 🔥 My Top Repositories
+<!--START_SECTION:top_repos-->
+<!--END_SECTION:top_repos-->
+
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <!--STARTS_HERE_QUOTE_CARD-->
