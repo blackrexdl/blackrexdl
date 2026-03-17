@@ -55,7 +55,9 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
 **Note:** Make sure your workflow has permission to push to the `main` branch and only commits the generated SVGs (not other files).
 
 -->
+## 📊 GitHub Profile Summary
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackrexdl&theme=default)
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2> 
