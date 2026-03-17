@@ -60,7 +60,7 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
 <div align="center">
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackrexdl&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackrexdl&theme=github_dark)
 </div>
 
 <!--Languages and Tools Section-->       
