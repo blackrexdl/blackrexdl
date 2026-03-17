@@ -13,17 +13,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Checkout latest repo
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      # 2️⃣ Install jq
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
+      # 3️⃣ Fetch top 4 repos (or latest if 0 stars)
       - name: Fetch top repos
         run: |
           curl -s https://api.github.com/users/blackrexdl/repos \
           | jq 'sort_by(-.stargazers_count) | .[0:4]' > repos.json
 
+      # 4️⃣ Generate HTML table section
       - name: Generate section
         run: |
           echo "<table><tr>" > section.md
@@ -38,6 +42,7 @@ jobs:
           done
           echo "</tr></table>" >> section.md
 
+      # 5️⃣ Safely inject section into README
       - name: Inject into README
         run: |
           awk '
@@ -47,14 +52,14 @@ jobs:
           ' README.md > README.tmp
           mv README.tmp README.md
 
+      # 6️⃣ Commit only if changes exist
       - name: Commit & push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add README.md
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "No changes to commit — workflow completed successfully ✅"
           else
-            git commit -m "🔄 Update top repos"
+            git commit -m "🔄 Auto-update top repositories"
             git push
-          fi
