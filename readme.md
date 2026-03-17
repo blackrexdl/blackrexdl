@@ -55,6 +55,7 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
 **Note:** Make sure your workflow has permission to push to the `main` branch and only commits the generated SVGs (not other files).
 
 -->
+## 📊 GitHub Profile Summary
 <div align="center">
 ## 📊 GitHub Profile Summary
 
