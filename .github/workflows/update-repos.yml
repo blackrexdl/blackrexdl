@@ -1,32 +1,37 @@
 name: Update Top Repos
 
+# Force all JavaScript actions to run on Node.js 24 (fixes deprecation warning)
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 permissions:
-  contents: write
+  contents: write  # allows workflow to commit changes
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"  # every 12 hours
+  workflow_dispatch:  # manual trigger
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Checkout the repo
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      # 2️⃣ Install jq to parse JSON
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
+      # 3️⃣ Fetch top 4 repositories
       - name: Fetch top repos
         run: |
           curl -s https://api.github.com/users/blackrexdl/repos \
           | jq 'sort_by(-.stargazers_count) | .[0:4]' > repos.json
 
+      # 4️⃣ Generate HTML section for README
       - name: Generate section
         run: |
           echo "<table><tr>" > section.md
@@ -41,6 +46,7 @@ jobs:
           done
           echo "</tr></table>" >> section.md
 
+      # 5️⃣ Inject the section safely into README
       - name: Inject into README
         run: |
           awk '
@@ -50,6 +56,7 @@ jobs:
           ' README.md > README.tmp
           mv README.tmp README.md
 
+      # 6️⃣ Commit & push only if changes exist
       - name: Commit & push
         run: |
           git config user.name "github-actions"
