@@ -1,22 +1,26 @@
-name: Update Top Repos
+name: Update Top Repositories
 
+# Force Node.js 24 for all JavaScript actions
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 permissions:
-  contents: write
+  contents: write  # allows workflow to commit changes
 
 on:
+  workflow_dispatch:   # manual trigger
   schedule:
     - cron: "0 */12 * * *"  # every 12 hours
-  workflow_dispatch:
+  push:
+    branches:
+      - main  # ensure workflow runs on main branch only
 
 jobs:
-  update:
+  update_top_repos:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout the repo
+      # 1️⃣ Checkout the repository
       - name: Checkout repo
         uses: actions/checkout@v4
 
@@ -24,7 +28,7 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      # 3️⃣ Fetch top 4 repositories
+      # 3️⃣ Fetch top 4 repositories by stars
       - name: Fetch top repos
         run: |
           curl -s https://api.github.com/users/blackrexdl/repos \
@@ -45,13 +49,14 @@ jobs:
           done
           echo "</tr></table>" >> section.md
 
-      # 5️⃣ Inject section safely into README.md
+      # 5️⃣ Inject section into README.md safely
       - name: Inject into README
         run: |
           if [ ! -f README.md ]; then
             echo "README.md not found — skipping update"
             exit 0
           fi
+
           awk '
           /<!--START_SECTION:top_repos-->/ {print; system("cat section.md"); skip=1; next}
           /<!--END_SECTION:top_repos-->/ {skip=0}
@@ -59,12 +64,18 @@ jobs:
           ' README.md > README.tmp
           mv README.tmp README.md
 
-      # 6️⃣ Commit & push only if changes exist
+      # 6️⃣ Commit & push changes only if there are updates
       - name: Commit & push
         run: |
+          if [ ! -f README.md ]; then
+            echo "README.md not found — exiting without commit"
+            exit 0
+          fi
+
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add README.md
+
           if git diff --cached --quiet; then
             echo "No changes to commit — workflow completed successfully ✅"
           else
