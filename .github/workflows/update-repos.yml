@@ -1,69 +1,14 @@
-name: Update Top Repos
+# 5️⃣ Inject the section safely into README
+- name: Inject into README
+  run: |
+    if [ ! -f README.md ]; then
+      echo "README.md not found — skipping update"
+      exit 0
+    fi
 
-# Force all JavaScript actions to run on Node.js 24 (fixes deprecation warning)
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
-permissions:
-  contents: write  # allows workflow to commit changes
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"  # every 12 hours
-  workflow_dispatch:  # manual trigger
-
-jobs:
-  update:
-    runs-on: ubuntu-latest
-
-    steps:
-      # 1️⃣ Checkout the repo
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      # 2️⃣ Install jq to parse JSON
-      - name: Install jq
-        run: sudo apt-get update && sudo apt-get install -y jq
-
-      # 3️⃣ Fetch top 4 repositories
-      - name: Fetch top repos
-        run: |
-          curl -s https://api.github.com/users/blackrexdl/repos \
-          | jq 'sort_by(-.stargazers_count) | .[0:4]' > repos.json
-
-      # 4️⃣ Generate HTML section for README
-      - name: Generate section
-        run: |
-          echo "<table><tr>" > section.md
-          i=0
-          for repo in $(jq -r '.[].name' repos.json); do
-            echo "<td align=\"center\">" >> section.md
-            echo "<a href=\"https://github.com/blackrexdl/$repo\">" >> section.md
-            echo "<img src=\"https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=$repo&theme=tokyonight&hide_border=true\"/>" >> section.md
-            echo "</a></td>" >> section.md
-            i=$((i+1))
-            if [ $((i%2)) -eq 0 ]; then echo "</tr><tr>" >> section.md; fi
-          done
-          echo "</tr></table>" >> section.md
-
-      # 5️⃣ Inject the section safely into README
-      - name: Inject into README
-        run: |
-          awk '
-          /<!--START_SECTION:top_repos-->/ {print; system("cat section.md"); skip=1; next}
-          /<!--END_SECTION:top_repos-->/ {skip=0}
-          !skip
-          ' README.md > README.tmp
-          mv README.tmp README.md
-
-      # 6️⃣ Commit & push only if changes exist
-      - name: Commit & push
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add README.md
-          if git diff --cached --quiet; then
-            echo "No changes to commit — workflow completed successfully ✅"
-          else
-            git commit -m "🔄 Auto-update top repositories"
-            git push
+    awk '
+    /<!--START_SECTION:top_repos-->/ {print; system("cat section.md"); skip=1; next}
+    /<!--END_SECTION:top_repos-->/ {skip=0}
+    !skip
+    ' README.md > README.tmp
+    mv README.tmp README.md
