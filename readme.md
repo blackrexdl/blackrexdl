@@ -56,12 +56,7 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
 
 -->
 
-## ➥ GitHub Profile Summary
-<div align="center">
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackrexdl&theme=github_dark)
-</div>
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2> 
@@ -143,6 +138,13 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
 </div> -->
 
 <!-- ![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=blackrexdl) -->
+
+## ➥ GitHub Profile Summary
+<div align="center">
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackrexdl&theme=github_dark)
+</div>
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
