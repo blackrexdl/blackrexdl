@@ -167,9 +167,6 @@ HTML         2 hrs 3 mins          ██▒░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-## 🔥 My Top Repositories
-<!--START_SECTION:top_repos-->
-<!--END_SECTION:top_repos-->
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
