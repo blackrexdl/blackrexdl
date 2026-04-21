@@ -186,7 +186,10 @@ Bash         1 hr 18 mins          █▒░░░░░░░░░░░░░
 
 <!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
-
+<div>
+<img src="https://github-widgets.netlify.app/api/v1/qr-code.svg?content=https%3A%2F%2Fgithub.com%2Fblackrexdl&logo=github&logoColor=ffffff&useThemeColor=true&title=Github+Account&animate=true" alt="QR Code" />
+ </div>
+<br/>
 <p align="center">
   <a href="mailto:shuvam2065@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -213,6 +216,7 @@ Bash         1 hr 18 mins          █▒░░░░░░░░░░░░░
   </a>
 </div>
 </p>
+
 <!--Footer Wave-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
