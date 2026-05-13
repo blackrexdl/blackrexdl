@@ -158,9 +158,9 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   9 hrs 38 mins         ██████████████▒░░░░░░░░░░   56.68 %
-Other        5 hrs 38 mins         ████████▒░░░░░░░░░░░░░░░░   33.16 %
-INI          1 hr 10 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+JavaScript   9 hrs 38 mins         ██████████████▒░░░░░░░░░░   56.74 %
+Other        5 hrs 24 mins         ████████░░░░░░░░░░░░░░░░░   31.81 %
+INI          1 hr 23 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
 Markdown     27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 Python       3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
