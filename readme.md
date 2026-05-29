@@ -158,10 +158,11 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 hrs 20 mins         ██████████████░░░░░░░░░░░   55.99 %
-Other        4 hrs 3 mins          ██████████▓░░░░░░░░░░░░░░   42.50 %
-CSS          8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other        6 hrs 21 mins         ████████████▓░░░░░░░░░░░░   51.27 %
+JavaScript   5 hrs 46 mins         ███████████▓░░░░░░░░░░░░░   46.59 %
+CSS          14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+AMPL         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
