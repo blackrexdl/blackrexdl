@@ -158,8 +158,8 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
 <!--START_SECTION:waka-->
 
 ```txt
-CSS     1 hr 23 mins          ████████████████░░░░░░░░░   63.52 %
-Other   47 mins               █████████░░░░░░░░░░░░░░░░   36.48 %
+CSS     1 hr 40 mins          ██████████████████░░░░░░░   72.64 %
+Other   37 mins               ███████░░░░░░░░░░░░░░░░░░   27.36 %
 ```
 
 <!--END_SECTION:waka-->
