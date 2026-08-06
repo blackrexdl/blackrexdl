@@ -158,7 +158,7 @@ This repository uses a GitHub Actions workflow to automatically generate and upd
 <!--START_SECTION:waka-->
 
 ```txt
-Other   17 mins               █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
